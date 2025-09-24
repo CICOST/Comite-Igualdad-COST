@@ -1,0 +1,26 @@
+.distill-site-header .title::before {
+  content: "";
+  display: inline-block;
+  background-image: url('foto1.jpg');  
+  background-size: contain;
+  background-repeat: no-repeat;
+  width: 40px;
+  height: 40px;
+  margin-right: 10px;
+  vertical-align: middle;
+}
+
+body {
+  background-color: white; /* fondo blanco para todo el cuerpo */
+  color: #333;             /* texto oscuro para legibilidad */
+  margin: 0;
+  padding: 0;
+}
+
+.title {
+  background-color: #0B2E4A; /* fondo azul oscuro */
+  color: white;              /* texto blanco */
+  padding: 1rem 2rem;
+  border-radius: 4px;        /* opcional, para esquinas redondeadas */
+  display: inline-block;     /* para que el fondo se ajuste al texto */
+}
