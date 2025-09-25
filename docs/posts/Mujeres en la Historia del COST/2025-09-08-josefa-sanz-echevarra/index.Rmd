@@ -17,7 +17,7 @@ Estuvo contratada en la Estación de Biología Marina de Santander durante 9 añ
 </div>
 
 <p style="text-align: center;">
-  <img src="foto2.jpg" alt="Una imagen" style="width:250px;" />
+  <img src="Foto2.jpg" alt="Una imagen" style="width:250px;" />
 </p>
 
 <div style="text-align: justify;">
